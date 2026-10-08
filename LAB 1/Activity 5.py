@@ -1,0 +1,6 @@
+print("Activity 5: Powers of 4 ")
+print("a. 4 ** 3 =", 4 ** 3)
+print("b. 4 ** 10 =", 4 ** 10)
+print("c. 4 ** 29 =", 4 ** 29)
+print("d. 4 ** 150 =", 4 ** 150)
+print("e. 4 ** 1000 =", 4 ** 1000)
